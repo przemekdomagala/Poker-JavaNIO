@@ -10,7 +10,7 @@
 - Server module contains source code of game server and server manager responsible for answering to clients tokens.
 - Client module contains source code of client (player) and is responsible for sending requests and data to game server.
 - Model contains business model of game.
-- Common is util module.
+- Common is utils module.
 
 
 Current version of project: Beta
