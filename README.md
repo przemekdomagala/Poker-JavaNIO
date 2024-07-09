@@ -11,3 +11,6 @@
 - Client module contains source code of client (player) and is responsible for sending requests and data to game server.
 - Model contains business model of game.
 - Common is utils module.
+
+#### Visual:
+![alt](https://github.com/przemekdomagala/Poker-JavaNIO/blob/main/poker-screenshot.png)
